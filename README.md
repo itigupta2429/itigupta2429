@@ -7,22 +7,14 @@ I am a PhD-trained professional transitioning into data science and applied mach
 
 ---
 
-## 🔬 What I Do
+## 🔬 What I Do & Areas of Interest
 
 - Build end-to-end data science workflows (data collection → preprocessing → modeling → evaluation)
 - Apply machine learning techniques to structured and unstructured datasets
 - Perform feature engineering, model selection, and performance tuning
+- Conduct exploratory data analysis and visualization to derive actionable insights
+- Apply statistical methods and predictive modeling for data-driven decision support
 - Develop reproducible, well-documented analytical pipelines
-
----
-
-## 🤖 Areas of Interest
-
-- Data Science & Analytics  
-- Machine Learning & Predictive Modeling  
-- Feature Engineering & Model Optimization  
-- Exploratory Data Analysis & Visualization  
-- Applied Statistics & Decision Support  
 
 ---
 
