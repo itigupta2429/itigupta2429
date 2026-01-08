@@ -18,22 +18,13 @@ I am a PhD-trained professional transitioning into data science and applied mach
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages & Tools
-Python · R · SQL
-
-### Data Science & ML
-Pandas · NumPy · scikit-learn · TensorFlow
-
-### Data & Dev Tools
-Git · Jupyter · Docker
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/itigupta2429  
 - LinkedIn: https://www.linkedin.com/in/iti-gupta-05278a56/
 
-⚡ **Fun fact:** Proud plant parent 🌱
+---
+
+⚡ **Fun fact:** Enthusiastic plant parent 🌱 with a curiosity for discovering insights in new datasets 🔍
+
+---
