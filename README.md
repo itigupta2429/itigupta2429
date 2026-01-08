@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Iti
+## 👋 Hi, I’m Iti
 
 🎓 **PhD in Bioinformatics | Data Science | Machine Learning**  
 📍 Calgary, Canada  
