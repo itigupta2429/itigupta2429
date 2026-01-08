@@ -56,16 +56,19 @@ Git · Jupyter · Docker
 
 ## 📈 GitHub Stats
 
-<p align="left">
+<p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=itigupta2429&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=itigupta2429&show_icons=true&hide_border=true&theme=default"
     height="165"
+    referrerpolicy="no-referrer"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=itigupta2429&layout=compact&hide_border=true"
     height="165"
+    referrerpolicy="no-referrer"
   />
 </p>
+
 
 ---
 
