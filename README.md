@@ -56,8 +56,16 @@ Git · Jupyter · Docker
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itigupta2429&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itigupta2429&layout=compact&hide_border=true)
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=itigupta2429&show_icons=true&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itigupta2429&layout=compact&hide_border=true"
+    height="165"
+  />
+</p>
 
 ---
 
