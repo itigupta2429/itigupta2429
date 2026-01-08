@@ -66,8 +66,8 @@ Implementations of regression, classification, clustering, and hyperparameter tu
 Exploratory data analysis, statistical insights, and visualization using Python and R.
 
 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itigupta2429&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itigupta2429&layout=compact)
 
 
 ⬆️ Replace yourusername with your GitHub username
