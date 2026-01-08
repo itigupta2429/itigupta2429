@@ -27,4 +27,3 @@ I am a PhD-trained professional transitioning into data science and applied mach
 
 ⚡ **Fun fact:** Enthusiastic plant parent 🌱 with a curiosity for discovering insights in new datasets 🔍
 
----
